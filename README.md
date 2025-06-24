@@ -1,0 +1,1 @@
+A hands-on data analytics project on Netflix data using MySQL. Here I created the database, loaded the data into the database and wrote analytical SQL queries (joins, aggregations, etc) for different business scenarios to extract actionable insights enabling data-driven decision-making. 
